@@ -8,7 +8,7 @@
 
 ## 🧑🏻‍💻 Sobre mim
 
-🎓 Sou estudante de **Desenvolvimento de Sistemas no IFSP**.
+🎓 Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP**.
 
 💻 Tenho interesse em programação, desenvolvimento web, backend, IA Generativa e Machine Learning
 
