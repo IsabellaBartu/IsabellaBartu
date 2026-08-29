@@ -2,6 +2,10 @@
 
 # 👋 Olá, eu sou a Isabella!
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Desenvolvedora+em+forma%C3%A7%C3%A3o" />
+
+</div>
+
 ### 💻 Estudante de Desenvolvimento de Sistemas 
 
 ---
