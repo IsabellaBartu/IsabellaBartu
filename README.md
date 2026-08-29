@@ -10,7 +10,7 @@
 
 🎓 Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP**.
 
-💻 Tenho interesse em programação, desenvolvimento web, backend, IA Generativa e Machine Learning
+💻 Tenho interesse em programação, desenvolvimento web, tecnologia, dados, cibersegurança, IA Generativa e Machine Learning
 
 🧠 Gosto de aprender na prática, transformando ideias em projetos e buscando soluções para problemas.
 
