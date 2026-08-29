@@ -86,8 +86,9 @@ Estou aberta a oportunidades, projetos e conexões na área de Tecnologia.
 <a href="https://github.com/IsabellaBartu">
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="35"/>
 </a>
-
+<br>
 </div>
-⭐ Obrigada por visitar meu perfil!
+
+⭐ Obrigada por visitar meu perfil :)!
 
 </div>
