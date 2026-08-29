@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑🏻‍💻 Sobre mim
+## 👩🏻‍💻 Sobre mim
 
 🎓 Sou estudante do **Curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio no IFSP**.
 
